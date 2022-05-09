@@ -1,0 +1,19 @@
+Nome
+
+Idade
+
+Data de Nascimento
+
+Bairro
+
+Cidade
+
+Estado
+
+CEP
+
+Endereço 
+
+RG	
+
+CPF
